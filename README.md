@@ -2,7 +2,7 @@
 
 Logos used for Lovable, Luma, and other projects.
 
-## How to Reference in Lovable & Luma
+## How to Reference in Lovable
 
 You can reference these logos in Lovable (e.g. in your React code or image source URLs) or on Luma (lu.ma) by using their raw GitHub user content links. 
 
@@ -89,28 +89,9 @@ You can reference these logos in Lovable (e.g. in your React code or image sourc
 
 | Logo Name | Direct URL | Preview |
 | :--- | :--- | :---: |
-| **Takealot** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/takealot-logo.png` | ![Takealot](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/takealot-logo.png) |
-| **Old Mutual Header** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/old-mutual-header-logo.jpg` | ![Old Mutual Header](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/old-mutual-header-logo.jpg) |
-| **Old Mutual Footer** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/old-mutual-footer-logo.jpg` | ![Old Mutual Footer](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/old-mutual-footer-logo.jpg) |
 | **Netcore** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/netcore-logo.png` | ![Netcore](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/netcore-logo.png) |
 | **Netcore V2** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/netcore-logo-v2.jpg` | ![Netcore V2](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/netcore-logo-v2.jpg) |
 | **Nike** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/nike-logo.jpeg` | ![Nike](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/nike-logo.jpeg) |
-
----
-
-### 3. AMP Logos (Artwork Rebrush)
-
-| Logo Variant | Direct URL | Preview |
-| :--- | :--- | :---: |
-| **AMP Icon (Color)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-color.png` | ![AMP Icon Color](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-color.png) |
-| **AMP Icon (White)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-white.png` | ![AMP Icon White](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-white.png) |
-| **AMP Icon (Black)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-black.png` | ![AMP Icon Black](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-icon-black.png) |
-| **AMP Logo Horizontal (Color)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-color.png` | ![AMP Logo Horizontal Color](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-color.png) |
-| **AMP Logo Horizontal (White)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-white.png` | ![AMP Logo Horizontal White](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-white.png) |
-| **AMP Logo Horizontal (Black)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-black.png` | ![AMP Logo Horizontal Black](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-horizontal-black.png) |
-| **AMP Logo Stacked (Color)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-color.png` | ![AMP Logo Stacked Color](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-color.png) |
-| **AMP Logo Stacked (White)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-white.png` | ![AMP Logo Stacked White](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-white.png) |
-| **AMP Logo Stacked (Black)** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-black.png` | ![AMP Logo Stacked Black](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/amp-artwork/amp-logo-stacked-black.png) |
 
 ---
 
