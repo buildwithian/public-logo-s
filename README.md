@@ -1,2 +1,42 @@
 # public-logo-s
-Logos used for Lovable and other projects. 
+
+Logos used for Lovable, Luma, and other projects.
+
+## How to Reference in Lovable & Luma
+
+You can reference these logos in Lovable (e.g. in your React code or image source URLs) or on Luma (lu.ma) by using their raw GitHub user content links. 
+
+### Base URL format
+`https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/<logo_name>.png`
+
+---
+
+## Logo References
+
+Below is the list of all BFSI logos in this repository along with their direct URLs for copy-pasting:
+
+| Logo Name | Direct URL | Preview |
+| :--- | :--- | :---: |
+| **Access Bank** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/accessbank.png` | ![Access Bank](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/accessbank.png) |
+| **Axis Mutual Fund** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/axismutualfund.png` | ![Axis Mutual Fund](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/axismutualfund.png) |
+| **Bajaj Finserv** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/bajajfinserv.png` | ![Bajaj Finserv](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/bajajfinserv.png) |
+| **Chola** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/chola.png` | ![Chola](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/chola.png) |
+| **CrossTower** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/crosstower.png` | ![CrossTower](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/crosstower.png) |
+| **Equitas Small Finance Bank** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/equitassmallfinancebank.png` | ![Equitas](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/equitassmallfinancebank.png) |
+| **HDFC Mutual Fund** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/hdfcmutualfund.png` | ![HDFC Mutual Fund](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/hdfcmutualfund.png) |
+| **ICICI Bank** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/icicibank.png` | ![ICICI Bank](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/icicibank.png) |
+| **Kotak** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/kotak.png` | ![Kotak](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/kotak.png) |
+| **Max Life Insurance** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/maxlifeinsurance.png` | ![Max Life Insurance](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/maxlifeinsurance.png) |
+| **Navia** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/navia.png` | ![Navia](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/navia.png) |
+| **Nuvama** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/nuvama.png` | ![Nuvama](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/nuvama.png) |
+| **OneScore** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/onescore.png` | ![OneScore](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/onescore.png) |
+| **Reliance General Insurance** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/reliancegeneralinsurance.png` | ![Reliance](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/reliancegeneralinsurance.png) |
+| **SBI** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/sbi.png` | ![SBI](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/sbi.png) |
+| **Spice Money** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/spicemoney.png` | ![Spice Money](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/spicemoney.png) |
+| **Standard Chartered** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/standardchartered.png` | ![Standard Chartered](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/standardchartered.png) |
+| **TVS Credit** | `https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/tvscredit.png` | ![TVS Credit](https://raw.githubusercontent.com/buildwithian/public-logo-s/main/BFSI%20Logo's/tvscredit.png) |
+
+## Programmatic Access
+
+You can also fetch the mappings of logos to URLs programmatically from the [logos.json](logos.json) file at:
+`https://raw.githubusercontent.com/buildwithian/public-logo-s/main/logos.json`
